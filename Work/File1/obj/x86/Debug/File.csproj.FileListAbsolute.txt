@@ -1,0 +1,9 @@
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\bin\Debug\File.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\bin\Debug\File.pdb
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\File.Form1.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\File.Properties.Resources.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\File.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\File\obj\x86\Debug\File.pdb

@@ -1,0 +1,30 @@
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\bin\Debug\File1.exe
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\bin\Debug\File1.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\File.Form1.resources
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\File.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\File1.exe
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\File1.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2010\Projects\File1\File1\obj\x86\Debug\File.Form2.resources
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\File1.exe
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\File1.pdb
+C:\Users\Пользователь\Desktop\Эксперимент\File1\bin\Debug\File1.exe
+C:\Users\Пользователь\Desktop\Эксперимент\File1\bin\Debug\File1.pdb
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\File.Form1.resources
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\File.Form2.resources
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\File.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Desktop\Эксперимент\File1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Пользователь\Desktop\Задание\File1\bin\Debug\File1.exe
+C:\Users\Пользователь\Desktop\Задание\File1\bin\Debug\File1.pdb
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\File.Form1.resources
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\File.Form2.resources
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\File.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\File1.exe
+C:\Users\Пользователь\Desktop\Задание\File1\obj\x86\Debug\File1.pdb
